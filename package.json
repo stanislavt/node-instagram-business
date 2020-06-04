@@ -1,0 +1,19 @@
+{
+  "name": "instagram-business",
+  "version": "1.0.0",
+  "description": "Npm library for Instagram Business accounts managing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislavt/node-instagram-business.git"
+  },
+  "author": "Stanislav Tarasenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanislavt/node-instagram-business/issues"
+  },
+  "homepage": "https://github.com/stanislavt/node-instagram-business#readme"
+}
